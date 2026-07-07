@@ -1,0 +1,24 @@
+opportunity_id,account_name,bu,product,region,segment,owner,forecast_amount,actual_amount,forecast_stage,actual_status,prior_close_date,actual_close_date,forecast_category,outcome_code,source_note_id
+OPP-1001,Aster Bank,Enterprise Solutions,Enterprise Suite,North America,Enterprise,Maya Chen,2400000,0,Contracting,Slipped,2026-03-20,2026-04-18,Commit,procurement_delay,NOTE-1001
+OPP-1002,Northstar Retail,Enterprise Solutions,Security Add-on,North America,Enterprise,Jon Bell,900000,0,Legal Review,Slipped,2026-03-28,2026-04-30,Best Case,security_review_delay,NOTE-1002
+OPP-1003,Cascade Health,Enterprise Solutions,Enterprise Suite,EMEA,Enterprise,Leah Ortiz,1100000,0,Proposal,Closed Lost,2026-03-15,,Best Case,competitor_selected,NOTE-1003
+OPP-1004,Pioneer Labs,Enterprise Solutions,Team Plans,North America,Mid-Market,Nina Shah,850000,1300000,Proposal,Closed Won,2026-03-22,2026-03-26,Best Case,package_expansion,NOTE-1004
+OPP-2001,BrightCart,Growth & Self-Serve,Team Plans,North America,SMB,Samir Patel,620000,0,Evaluation,Closed Lost,2026-03-12,,Pipeline,budget_freeze,NOTE-2001
+OPP-2002,MetroDesk,Growth & Self-Serve,Starter Plans,North America,SMB,Samir Patel,420000,0,Trial,Slipped,2026-03-31,2026-04-12,Pipeline,trial_extension,NOTE-2002
+OPP-2003,CreatorHub,Growth & Self-Serve,Marketplace,Global,SMB,Avery Singh,350000,640000,Proposal,Closed Won,2026-03-10,2026-03-14,Best Case,attach_rate_upside,NOTE-2003
+OPP-3001,Atlas Manufacturing,Platform & Data,Data Cloud,Global,Enterprise,Iris Wong,700000,980000,Proposal,Closed Won,2026-03-21,2026-03-20,Best Case,usage_expansion_pull_forward,NOTE-3001
+OPP-3002,Helio Energy,Platform & Data,AI Compute,Global,Enterprise,Iris Wong,500000,0,Contracting,Slipped,2026-03-29,2026-04-22,Commit,legal_redlines,NOTE-3002
+OPP-4001,Eurora Mobility,International Markets,Enterprise Suite,EMEA,Enterprise,Marco Conti,900000,0,Contracting,Slipped,2026-03-24,2026-04-26,Commit,data_residency_review,NOTE-4001
+OPP-4002,ZenAsia Foods,International Markets,Team Plans,APAC,Mid-Market,Keiko Tanaka,650000,0,Evaluation,Closed Lost,2026-03-19,,Best Case,incumbent_selected,NOTE-4002
+OPP-4003,Andes Logistics,International Markets,Channel Starter,LATAM,SMB,Luis Romero,300000,520000,Proposal,Closed Won,2026-03-08,2026-03-09,Pipeline,partner_bundle_upsize,NOTE-4003
+OPP-5101,Redwood Bank,Enterprise Solutions,Enterprise Suite,North America,Enterprise,Maya Chen,2600000,0,Contracting,At Risk,2026-06-18,2026-07-12,Commit,procurement_signoff_risk,NOTE-5101
+OPP-5102,Silverline Health,Enterprise Solutions,Security Add-on,North America,Enterprise,Jon Bell,850000,0,Legal Review,Open,2026-06-24,2026-06-28,Best Case,purchasing_approval_pending,NOTE-5102
+OPP-5103,Orion Systems,Enterprise Solutions,Team Plans,North America,Mid-Market,Nina Shah,700000,1050000,Proposal,Expected Upgrade,2026-06-10,2026-06-15,Best Case,package_upgrade,NOTE-5103
+OPP-5201,FreshCart,Growth & Self-Serve,Team Plans,North America,SMB,Samir Patel,540000,0,Trial,At Risk,2026-06-12,2026-07-05,Pipeline,activation_below_threshold,NOTE-5201
+OPP-5202,LocalDesk,Growth & Self-Serve,Starter Plans,North America,SMB,Samir Patel,360000,410000,Trial,Closed Won,2026-05-18,2026-05-20,Pipeline,self_serve_conversion_upside,NOTE-5202
+OPP-5203,DesignHub,Growth & Self-Serve,Marketplace,Global,SMB,Avery Singh,420000,650000,Proposal,Projected Upside,2026-06-08,2026-06-11,Best Case,attach_rate_upside,NOTE-5203
+OPP-5301,Vector Mobility,Platform & Data,Data Cloud,Global,Enterprise,Iris Wong,900000,1200000,Proposal,Projected Upside,2026-06-21,2026-06-22,Best Case,usage_expansion_upside,NOTE-5301
+OPP-5302,NovaGrid,Platform & Data,AI Compute,Global,Enterprise,Iris Wong,780000,0,Contracting,Open,2026-06-27,2026-06-30,Commit,legal_review_active,NOTE-5302
+OPP-5401,Baltic Freight,International Markets,Enterprise Suite,EMEA,Enterprise,Marco Conti,820000,0,Contracting,At Risk,2026-06-20,2026-07-18,Commit,data_residency_exception,NOTE-5401
+OPP-5402,Sakura Retail,International Markets,Team Plans,APAC,Mid-Market,Keiko Tanaka,520000,0,Evaluation,At Risk,2026-06-14,2026-07-03,Best Case,partner_motion_slow,NOTE-5402
+OPP-5403,Costa Logistics,International Markets,Channel Starter,LATAM,SMB,Luis Romero,340000,560000,Proposal,Projected Upside,2026-06-05,2026-06-07,Pipeline,partner_bundle_upside,NOTE-5403

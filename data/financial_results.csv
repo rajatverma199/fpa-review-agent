@@ -1,0 +1,42 @@
+period,bu,product,region,segment,metric,forecast_amount,actual_amount,plan_amount,prior_period_amount
+Q1 FY26,Enterprise Solutions,Enterprise Suite,North America,Enterprise,Revenue,18200000,15600000,17600000,14900000
+Q1 FY26,Enterprise Solutions,Security Add-on,North America,Enterprise,Revenue,6500000,5800000,6200000,5200000
+Q1 FY26,Enterprise Solutions,Team Plans,North America,Mid-Market,Revenue,3200000,2100000,3000000,2600000
+Q1 FY26,Enterprise Solutions,Enterprise Suite,EMEA,Enterprise,Revenue,7800000,6300000,7500000,5900000
+Q1 FY26,Growth & Self-Serve,Team Plans,North America,SMB,Revenue,7400000,6100000,7200000,6500000
+Q1 FY26,Growth & Self-Serve,Starter Plans,North America,SMB,Revenue,3000000,2700000,3100000,2800000
+Q1 FY26,Growth & Self-Serve,Marketplace,Global,SMB,Revenue,2200000,2600000,2100000,1900000
+Q1 FY26,Growth & Self-Serve,Revenue Adjustments,Global,All,Revenue,0,-850000,0,0
+Q1 FY26,Platform & Data,Data Cloud,Global,Enterprise,Revenue,5900000,6600000,5600000,5000000
+Q1 FY26,Platform & Data,AI Compute,Global,Enterprise,Revenue,4700000,5000000,4300000,3700000
+Q1 FY26,International Markets,Enterprise Suite,EMEA,Enterprise,Revenue,6000000,4900000,5900000,4500000
+Q1 FY26,International Markets,Team Plans,APAC,Mid-Market,Revenue,4200000,3600000,4000000,3300000
+Q1 FY26,International Markets,Channel Starter,LATAM,SMB,Revenue,2800000,3200000,2600000,2400000
+Q1 FY26,Enterprise Solutions,Sales,Global,All,Opex,9200000,9700000,9000000,8400000
+Q1 FY26,Enterprise Solutions,Customer Success,Global,All,Opex,4300000,4100000,4200000,3900000
+Q1 FY26,Growth & Self-Serve,Marketing,Global,All,Opex,7600000,8400000,7300000,6900000
+Q1 FY26,Growth & Self-Serve,Support,Global,All,Opex,2600000,2500000,2500000,2400000
+Q1 FY26,Platform & Data,Cloud Infrastructure,Global,All,Opex,11300000,13600000,10800000,9500000
+Q1 FY26,Platform & Data,Engineering,Global,All,Opex,7800000,7900000,7600000,7200000
+Q1 FY26,International Markets,Regional Sales,Global,All,Opex,5200000,5600000,5100000,4800000
+Q1 FY26,International Markets,Localization,Global,All,Opex,1700000,1600000,1600000,1500000
+Q2 FY26,Enterprise Solutions,Enterprise Suite,North America,Enterprise,Revenue,19800000,18900000,19400000,15600000
+Q2 FY26,Enterprise Solutions,Security Add-on,North America,Enterprise,Revenue,7200000,6900000,7000000,5800000
+Q2 FY26,Enterprise Solutions,Team Plans,North America,Mid-Market,Revenue,2600000,2300000,2700000,2100000
+Q2 FY26,Enterprise Solutions,Enterprise Suite,EMEA,Enterprise,Revenue,8500000,7900000,8200000,6300000
+Q2 FY26,Growth & Self-Serve,Team Plans,North America,SMB,Revenue,7000000,6400000,7100000,6100000
+Q2 FY26,Growth & Self-Serve,Starter Plans,North America,SMB,Revenue,3200000,3300000,3200000,2700000
+Q2 FY26,Growth & Self-Serve,Marketplace,Global,SMB,Revenue,2700000,3100000,2600000,2600000
+Q2 FY26,Platform & Data,Data Cloud,Global,Enterprise,Revenue,6800000,7400000,6600000,6600000
+Q2 FY26,Platform & Data,AI Compute,Global,Enterprise,Revenue,5400000,6100000,5200000,5000000
+Q2 FY26,International Markets,Enterprise Suite,EMEA,Enterprise,Revenue,6500000,6100000,6400000,4900000
+Q2 FY26,International Markets,Team Plans,APAC,Mid-Market,Revenue,3900000,3500000,3900000,3600000
+Q2 FY26,International Markets,Channel Starter,LATAM,SMB,Revenue,3300000,3600000,3200000,3200000
+Q2 FY26,Enterprise Solutions,Sales,Global,All,Opex,9800000,10100000,9600000,9700000
+Q2 FY26,Enterprise Solutions,Customer Success,Global,All,Opex,4400000,4300000,4300000,4100000
+Q2 FY26,Growth & Self-Serve,Marketing,Global,All,Opex,7800000,8500000,7600000,8400000
+Q2 FY26,Growth & Self-Serve,Support,Global,All,Opex,2700000,2800000,2600000,2500000
+Q2 FY26,Platform & Data,Cloud Infrastructure,Global,All,Opex,12500000,14200000,12100000,13600000
+Q2 FY26,Platform & Data,Engineering,Global,All,Opex,8100000,8300000,7900000,7900000
+Q2 FY26,International Markets,Regional Sales,Global,All,Opex,5700000,6100000,5500000,5600000
+Q2 FY26,International Markets,Localization,Global,All,Opex,1800000,1900000,1700000,1600000

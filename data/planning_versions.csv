@@ -1,0 +1,33 @@
+source_system,version,scenario,period,gl_account,gl_account_name,cost_center,department,product,bu,amount
+Anaplan,FY26 Board Plan,Plan,Q1 FY26,4000,Subscription Revenue,,Sales,Enterprise Suite,Enterprise Solutions,-17600000
+Anaplan,FY26 Board Plan,Plan,Q1 FY26,4010,Security Add-on Revenue,,Sales,Security Add-on,Enterprise Solutions,-6200000
+Anaplan,FY26 Board Plan,Plan,Q1 FY26,4020,Team Plans Revenue,,Sales,Team Plans,Enterprise Solutions,-3000000
+Anaplan,Q1 FY26 Start Forecast,Forecast,Q1 FY26,4000,Subscription Revenue,,Sales,Enterprise Suite,Enterprise Solutions,-18200000
+Anaplan,Q1 FY26 Start Forecast,Forecast,Q1 FY26,4010,Security Add-on Revenue,,Sales,Security Add-on,Enterprise Solutions,-6500000
+Anaplan,Q1 FY26 Start Forecast,Forecast,Q1 FY26,4020,Team Plans Revenue,,Sales,Team Plans,Enterprise Solutions,-3200000
+Anaplan,FY26 Board Plan,Plan,Q1 FY26,5000,Cloud Hosting COGS,CC-730,Infrastructure,Enterprise Suite,Enterprise Solutions,2800000
+Anaplan,Q1 FY26 Start Forecast,Forecast,Q1 FY26,5000,Cloud Hosting COGS,CC-730,Infrastructure,Enterprise Suite,Enterprise Solutions,2700000
+Anaplan,FY26 Board Plan,Plan,Q1 FY26,5100,Support COGS,CC-420,Customer Success,Enterprise Suite,Enterprise Solutions,1100000
+Anaplan,Q1 FY26 Start Forecast,Forecast,Q1 FY26,5100,Support COGS,CC-420,Customer Success,Enterprise Suite,Enterprise Solutions,1150000
+Anaplan,FY26 Board Plan,Plan,Q1 FY26,6100,Sales Salaries,CC-300,Sales,All,Enterprise Solutions,5900000
+Anaplan,Q1 FY26 Start Forecast,Forecast,Q1 FY26,6100,Sales Salaries,CC-300,Sales,All,Enterprise Solutions,6100000
+Anaplan,FY26 Board Plan,Plan,Q1 FY26,6205,Contractors,CC-310,Sales,All,Enterprise Solutions,1000000
+Anaplan,Q1 FY26 Start Forecast,Forecast,Q1 FY26,6205,Contractors,CC-310,Sales,All,Enterprise Solutions,950000
+Anaplan,FY26 Board Plan,Plan,Q1 FY26,6400,Travel and Events,CC-300,Sales,All,Enterprise Solutions,800000
+Anaplan,Q1 FY26 Start Forecast,Forecast,Q1 FY26,6400,Travel and Events,CC-300,Sales,All,Enterprise Solutions,800000
+Anaplan,FY26 Board Plan,Plan,Q1 FY26,6300,Marketing Programs,CC-500,Marketing,All,Growth & Self-Serve,3000000
+Anaplan,Q1 FY26 Start Forecast,Forecast,Q1 FY26,6300,Marketing Programs,CC-500,Marketing,All,Growth & Self-Serve,2600000
+Anaplan,FY26 Board Plan,Plan,Q1 FY26,5000,Cloud Hosting COGS,CC-730,Infrastructure,AI Compute,Platform & Data,7800000
+Anaplan,Q1 FY26 Start Forecast,Forecast,Q1 FY26,5000,Cloud Hosting COGS,CC-730,Infrastructure,AI Compute,Platform & Data,7600000
+ERP Prior,Q4 FY25 Actual,Prior Period Actual,Q1 FY26,4000,Subscription Revenue,,Sales,Enterprise Suite,Enterprise Solutions,-14900000
+ERP Prior,Q4 FY25 Actual,Prior Period Actual,Q1 FY26,4010,Security Add-on Revenue,,Sales,Security Add-on,Enterprise Solutions,-5200000
+ERP Prior,Q4 FY25 Actual,Prior Period Actual,Q1 FY26,4020,Team Plans Revenue,,Sales,Team Plans,Enterprise Solutions,-2600000
+ERP Prior,Q4 FY25 Actual,Prior Period Actual,Q1 FY26,5000,Cloud Hosting COGS,CC-730,Infrastructure,Enterprise Suite,Enterprise Solutions,2500000
+ERP Prior,Q4 FY25 Actual,Prior Period Actual,Q1 FY26,5100,Support COGS,CC-420,Customer Success,Enterprise Suite,Enterprise Solutions,1000000
+ERP Prior,Q4 FY25 Actual,Prior Period Actual,Q1 FY26,6100,Sales Salaries,CC-300,Sales,All,Enterprise Solutions,5600000
+ERP Prior,Q4 FY25 Actual,Prior Period Actual,Q1 FY26,6205,Contractors,CC-310,Sales,All,Enterprise Solutions,900000
+ERP Prior,Q4 FY25 Actual,Prior Period Actual,Q1 FY26,6400,Travel and Events,CC-300,Sales,All,Enterprise Solutions,700000
+ERP Prior,Q4 FY25 Actual,Prior Period Actual,Q1 FY26,4000,Subscription Revenue,,Sales,Team Plans,Growth & Self-Serve,-6500000
+ERP Prior,Q4 FY25 Actual,Prior Period Actual,Q1 FY26,4025,Marketplace Revenue,,Sales,Marketplace,Growth & Self-Serve,-1900000
+ERP Prior,Q4 FY25 Actual,Prior Period Actual,Q1 FY26,6300,Marketing Programs,CC-500,Marketing,All,Growth & Self-Serve,6900000
+ERP Prior,Q4 FY25 Actual,Prior Period Actual,Q1 FY26,5000,Cloud Hosting COGS,CC-730,Infrastructure,AI Compute,Platform & Data,6800000

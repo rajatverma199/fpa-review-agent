@@ -1,0 +1,9 @@
+snapshot_name,snapshot_date,period,opportunity_id,account_name,bu,product,region,segment,owner,stage,forecast_category,amount,close_date,created_date
+Start of Quarter,2026-01-01,Q1 FY26,OPP-1001,Aster Bank,Enterprise Solutions,Enterprise Suite,North America,Enterprise,Maya Chen,Contracting,Commit,2400000,2026-03-20,2025-11-12
+Start of Quarter,2026-01-01,Q1 FY26,OPP-1002,Northstar Retail,Enterprise Solutions,Security Add-on,North America,Enterprise,Jon Bell,Legal Review,Best Case,900000,2026-03-28,2025-12-05
+Start of Quarter,2026-01-01,Q1 FY26,OPP-1003,Cascade Health,Enterprise Solutions,Enterprise Suite,EMEA,Enterprise,Leah Ortiz,Proposal,Best Case,1450000,2026-03-15,2025-12-18
+Start of Quarter,2026-01-01,Q1 FY26,OPP-1004,Pioneer Labs,Enterprise Solutions,Team Plans,North America,Mid-Market,Nina Shah,Proposal,Best Case,850000,2026-03-22,2025-12-20
+Start of Quarter,2026-01-01,Q1 FY26,OPP-2001,BrightCart,Growth & Self-Serve,Team Plans,North America,SMB,Samir Patel,Evaluation,Pipeline,620000,2026-03-12,2025-12-09
+Start of Quarter,2026-01-01,Q1 FY26,OPP-2002,MetroDesk,Growth & Self-Serve,Starter Plans,North America,SMB,Samir Patel,Trial,Pipeline,420000,2026-03-31,2025-12-22
+Start of Quarter,2026-01-01,Q1 FY26,OPP-2003,CreatorHub,Growth & Self-Serve,Marketplace,Global,SMB,Avery Singh,Proposal,Best Case,350000,2026-03-10,2025-12-14
+Start of Quarter,2026-01-01,Q1 FY26,OPP-3001,NovaWorks,Platform & Data,AI Compute,Global,Enterprise,Iris Wong,Proposal,Best Case,950000,2026-03-25,2025-12-02

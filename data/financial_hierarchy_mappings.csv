@@ -1,0 +1,15 @@
+gl_account,gl_account_name,statement_line,driver_family,driver_category,normal_balance
+4000,Subscription Revenue,Revenue,Revenue,Subscription Revenue,Credit
+4010,Security Add-on Revenue,Revenue,Revenue,Subscription Revenue,Credit
+4020,Team Plans Revenue,Revenue,Revenue,Subscription Revenue,Credit
+4025,Marketplace Revenue,Revenue,Revenue,Marketplace Revenue,Credit
+4100,Revenue Adjustments,Revenue,Revenue,Credits / Concessions,Credit
+5000,Cloud Hosting COGS,COGS,COGS,Cloud / Infrastructure,Debit
+5100,Support COGS,COGS,COGS,Support Delivery,Debit
+5200,Payment Processing COGS,COGS,COGS,Payment Processing,Debit
+6100,Sales Salaries,Sales OpEx,Workforce,Sales Salaries,Debit
+6205,Contractors,Sales OpEx,Vendor / Third-Party,Contractors,Debit
+6300,Marketing Programs,Marketing OpEx,Vendor / Third-Party,Marketing Programs,Debit
+6400,Travel and Events,Sales OpEx,Discretionary,Travel and Events,Debit
+6500,Engineering Salaries,Engineering OpEx,Workforce,Engineering Salaries,Debit
+6600,G&A Systems,G&A,Vendor / Third-Party,Software and Systems,Debit

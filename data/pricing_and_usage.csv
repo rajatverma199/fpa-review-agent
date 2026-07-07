@@ -1,0 +1,25 @@
+period,account_name,bu,product,region,segment,forecast_units,actual_units,forecast_price,actual_price,forecast_discount_pct,actual_discount_pct,migration_from_plan,migration_to_plan,migrated_arr,variance_basis_code,source_record_id
+Q1 FY26,Pioneer Labs,Enterprise Solutions,Enterprise Suite,North America,Mid-Market,0,1,0,1300000,0,0.18,Team Plans,Enterprise Suite,1100000,package_migration,PRICE-1001
+Q1 FY26,Aster Bank,Enterprise Solutions,Enterprise Suite,North America,Enterprise,1,0,2400000,0,0.12,0,,Enterprise Suite,0,close_date_after_quarter,PRICE-1002
+Q1 FY26,Northstar Retail,Enterprise Solutions,Security Add-on,North America,Enterprise,1,0,900000,0,0.10,0,,Security Add-on,0,close_date_after_quarter,PRICE-1003
+Q1 FY26,BluePeak Software,Enterprise Solutions,Security Add-on,North America,Enterprise,12,12,180000,165000,0.14,0.22,,Security Add-on,0,discount_above_forecast,PRICE-1004
+Q1 FY26,BrightCart,Growth & Self-Serve,Team Plans,North America,SMB,310,250,2000,1920,0.08,0.12,,Team Plans,0,conversion_below_forecast,PRICE-2001
+Q1 FY26,MetroDesk,Growth & Self-Serve,Starter Plans,North America,SMB,210,180,2000,1980,0.05,0.06,,Starter Plans,0,trial_extension,PRICE-2002
+Q1 FY26,CreatorHub,Growth & Self-Serve,Marketplace,Global,SMB,140,190,2500,3370,0.04,0.03,,Marketplace,0,attach_rate_upside,PRICE-2003
+Q1 FY26,Atlas Manufacturing,Platform & Data,Data Cloud,Global,Enterprise,70,92,10000,10650,0.10,0.08,,Data Cloud,0,usage_expansion_upside,PRICE-3001
+Q1 FY26,Helio Energy,Platform & Data,AI Compute,Global,Enterprise,50,44,10000,9800,0.12,0.14,,AI Compute,0,consumption_below_forecast,PRICE-3002
+Q1 FY26,Eurora Mobility,International Markets,Enterprise Suite,EMEA,Enterprise,1,0,900000,0,0.15,0,,Enterprise Suite,0,data_residency_delay,PRICE-4001
+Q1 FY26,ZenAsia Foods,International Markets,Team Plans,APAC,Mid-Market,260,215,2500,2380,0.10,0.15,,Team Plans,0,partner_conversion_below_forecast,PRICE-4002
+Q1 FY26,Andes Logistics,International Markets,Channel Starter,LATAM,SMB,120,170,2500,3050,0.06,0.04,,Channel Starter,0,partner_bundle_upside,PRICE-4003
+Q2 FY26,Orion Systems,Enterprise Solutions,Enterprise Suite,North America,Mid-Market,0,1,0,1050000,0,0.16,Team Plans,Enterprise Suite,850000,package_migration,PRICE-5101
+Q2 FY26,Redwood Bank,Enterprise Solutions,Enterprise Suite,North America,Enterprise,1,0,2600000,0,0.11,0,,Enterprise Suite,0,procurement_timing_risk,PRICE-5102
+Q2 FY26,Silverline Health,Enterprise Solutions,Security Add-on,North America,Enterprise,1,0,850000,0,0.09,0,,Security Add-on,0,purchasing_approval_pending,PRICE-5103
+Q2 FY26,Aperture Bio,Enterprise Solutions,Security Add-on,North America,Enterprise,14,14,185000,174000,0.12,0.19,,Security Add-on,0,discount_above_forecast,PRICE-5104
+Q2 FY26,FreshCart,Growth & Self-Serve,Team Plans,North America,SMB,270,230,2000,1940,0.08,0.12,,Team Plans,0,activation_below_forecast,PRICE-5201
+Q2 FY26,LocalDesk,Growth & Self-Serve,Starter Plans,North America,SMB,180,205,2000,2000,0.05,0.05,,Starter Plans,0,self_serve_conversion_upside,PRICE-5202
+Q2 FY26,DesignHub,Growth & Self-Serve,Marketplace,Global,SMB,160,205,2625,3170,0.04,0.03,,Marketplace,0,attach_rate_upside,PRICE-5203
+Q2 FY26,Vector Mobility,Platform & Data,Data Cloud,Global,Enterprise,80,110,11250,10900,0.09,0.10,,Data Cloud,0,usage_expansion_upside,PRICE-5301
+Q2 FY26,NovaGrid,Platform & Data,AI Compute,Global,Enterprise,78,68,10000,9850,0.12,0.14,,AI Compute,0,consumption_below_forecast,PRICE-5302
+Q2 FY26,Baltic Freight,International Markets,Enterprise Suite,EMEA,Enterprise,1,0,820000,0,0.15,0,,Enterprise Suite,0,data_residency_exception,PRICE-5401
+Q2 FY26,Sakura Retail,International Markets,Team Plans,APAC,Mid-Market,235,205,2210,2140,0.10,0.13,,Team Plans,0,partner_conversion_below_forecast,PRICE-5402
+Q2 FY26,Costa Logistics,International Markets,Channel Starter,LATAM,SMB,130,180,2615,3110,0.06,0.04,,Channel Starter,0,partner_bundle_upside,PRICE-5403

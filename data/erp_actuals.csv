@@ -1,0 +1,13 @@
+source_system,period,posting_date,journal_id,gl_account,gl_account_name,cost_center,department,vendor,product,bu,amount
+ERP,Q1 FY26,2026-03-31,JRN-9001,4000,Subscription Revenue,,Sales,,Enterprise Suite,Enterprise Solutions,-15600000
+ERP,Q1 FY26,2026-03-31,JRN-9002,4010,Security Add-on Revenue,,Sales,,Security Add-on,Enterprise Solutions,-5800000
+ERP,Q1 FY26,2026-03-31,JRN-9003,4020,Team Plans Revenue,,Sales,,Team Plans,Enterprise Solutions,-2100000
+ERP,Q1 FY26,2026-03-31,JRN-9101,5000,Cloud Hosting COGS,CC-730,Infrastructure,Northcloud,Enterprise Suite,Enterprise Solutions,3100000
+ERP,Q1 FY26,2026-03-31,JRN-9102,5100,Support COGS,CC-420,Customer Success,Onboardly,Enterprise Suite,Enterprise Solutions,1250000
+ERP,Q1 FY26,2026-03-25,JRN-9201,6100,Sales Salaries,CC-300,Sales,,All,Enterprise Solutions,6200000
+ERP,Q1 FY26,2026-03-25,JRN-9202,6205,Contractors,CC-310,Sales,Accenture,All,Enterprise Solutions,1350000
+ERP,Q1 FY26,2026-03-25,JRN-9203,6400,Travel and Events,CC-300,Sales,Field Enablement Co.,All,Enterprise Solutions,1150000
+ERP,Q1 FY26,2026-03-31,JRN-9301,4000,Subscription Revenue,,Sales,,Team Plans,Growth & Self-Serve,-6100000
+ERP,Q1 FY26,2026-03-31,JRN-9302,4025,Marketplace Revenue,,Sales,,Marketplace,Growth & Self-Serve,-2600000
+ERP,Q1 FY26,2026-03-31,JRN-9401,6300,Marketing Programs,CC-500,Marketing,AdCore,All,Growth & Self-Serve,3350000
+ERP,Q1 FY26,2026-03-31,JRN-9501,5000,Cloud Hosting COGS,CC-730,Infrastructure,Northcloud,AI Compute,Platform & Data,9400000

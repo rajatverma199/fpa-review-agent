@@ -1,0 +1,11 @@
+snapshot_name,snapshot_date,period,opportunity_id,account_name,bu,product,region,segment,owner,stage,status,forecast_category,amount,close_date,created_date,outcome_code,source_note_id
+End of Quarter,2026-03-31,Q1 FY26,OPP-1001,Aster Bank,Enterprise Solutions,Enterprise Suite,North America,Enterprise,Maya Chen,Closed Won,Closed Won,Closed,2300000,2026-03-29,2025-11-12,scope_reduced,NOTE-7712
+End of Quarter,2026-03-31,Q1 FY26,OPP-1002,Northstar Retail,Enterprise Solutions,Security Add-on,North America,Enterprise,Jon Bell,Closed Won,Closed Won,Closed,850000,2026-03-30,2025-12-05,commercial_concession,NOTE-7718
+End of Quarter,2026-03-31,Q1 FY26,OPP-1003,Cascade Health,Enterprise Solutions,Enterprise Suite,EMEA,Enterprise,Leah Ortiz,Closed Lost,Closed Lost,Omitted,0,,2025-12-18,competitor_selected,NOTE-7721
+End of Quarter,2026-03-31,Q1 FY26,OPP-1004,Pioneer Labs,Enterprise Solutions,Team Plans,North America,Mid-Market,Nina Shah,Closed Won,Closed Won,Closed,1300000,2026-03-26,2025-12-20,package_expansion,NOTE-7729
+End of Quarter,2026-03-31,Q1 FY26,OPP-1005,Helios Manufacturing,Enterprise Solutions,Security Add-on,North America,Enterprise,Jon Bell,Closed Won,Closed Won,Closed,550000,2026-03-27,2026-02-08,new_in_quarter_expansion,NOTE-7733
+End of Quarter,2026-03-31,Q1 FY26,OPP-2001,BrightCart,Growth & Self-Serve,Team Plans,North America,SMB,Samir Patel,Closed Lost,Closed Lost,Omitted,0,,2025-12-09,budget_freeze,NOTE-7801
+End of Quarter,2026-03-31,Q1 FY26,OPP-2002,MetroDesk,Growth & Self-Serve,Starter Plans,North America,SMB,Samir Patel,Trial,Slipped,Pipeline,420000,2026-04-12,2025-12-22,trial_extension,NOTE-7804
+End of Quarter,2026-03-31,Q1 FY26,OPP-2003,CreatorHub,Growth & Self-Serve,Marketplace,Global,SMB,Avery Singh,Closed Won,Closed Won,Closed,640000,2026-03-14,2025-12-14,attach_rate_upside,NOTE-7810
+End of Quarter,2026-03-31,Q1 FY26,OPP-3001,NovaWorks,Platform & Data,AI Compute,Global,Enterprise,Iris Wong,Closed Won,Closed Won,Closed,820000,2026-03-28,2025-12-02,discounting_variance,NOTE-7902
+End of Quarter,2026-03-31,Q1 FY26,OPP-3002,HelioAI,Platform & Data,AI Compute,Global,Enterprise,Iris Wong,Closed Won,Closed Won,Closed,700000,2026-03-21,2026-02-04,new_in_quarter_expansion,NOTE-7908
